@@ -11,8 +11,6 @@
 
 <p align="center">
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react" /></a>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/30-react-projects?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" />
 </p>
 
 ---
