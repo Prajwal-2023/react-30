@@ -16,6 +16,7 @@
 ---
 
 ## 📁 Project Structure
+<p>All Projects are in -> src/Projects/</p>
 
 - 📦 React + Vite setup  
 - 🎨 Basic CSS & Tailwind styling  
