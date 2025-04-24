@@ -7,7 +7,7 @@ function NavBar() {
                 <nav className="navbar w-screen bg-base-100 shadow-sm absolute top-0 left-0 right-0 felx flex-col">
                     <Link className="text-xl  btn btn-dash btn-primary mb-4" to="/">Home Page</Link>
                     <div className="btn-container">
-                    <Link className="btn btn-secondary" to="/undo-redo"><button className="">Undo Redo Project</button></Link>
+                    <Link to="/undo-redo"><button className="btn btn-secondary min-h-[2rem] w-auto h-auto">Undo Redo Project</button></Link>
                     </div>
                 </nav>
                 <Routes>
