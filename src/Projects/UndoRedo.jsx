@@ -23,9 +23,11 @@ function UndoRedo() {
     }
 
     const undo = () => {
+        if(position > 0)
         setPosition(position - 1)
     }
     const redo = () => {
+        if(position < history.length - 1)
         setPosition(position + 1)
     }
 
